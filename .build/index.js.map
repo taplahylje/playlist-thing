@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index.ts"],
+  "sourcesContent": ["\n\n\n\n\n\n\n\nfunction sex(){\n  sexx()\n  console.log('sex')\n} \n\nfunction sexx(){\n  sex()\n}"],
+  "mappings": "AAQA,eAAc;AACZ;AACA,UAAQ,IAAI;AAAA;AAGd,gBAAe;AACb;AAAA;",
+  "names": []
+}
